@@ -1,9 +1,5 @@
-<pre>
-
 <?php
 
-print "welcome to Openshift";
+print "welcome to Openshift World";
 
 ?>
-
-</pre>
